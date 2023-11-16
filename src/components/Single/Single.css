@@ -1,0 +1,110 @@
+/* Add these styles to your CSS file */
+
+.head-single {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 2em;
+    color: #161515;
+  }
+  
+  .ig {
+    align-items: center;
+    margin: 0 auto;
+    max-width: 2000px;
+    margin-right: 70px;
+  }
+  
+  .dis-single {
+    font-size: 1.2em;
+    color: #353333;
+    text-align: center;
+    margin-top: 10px;
+  }
+  
+  .cardaprt {
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  .cardaprt img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  .form-back {
+    background: linear-gradient(to right, #e9e6e6, #747575);
+  }
+  
+  .contact-form {
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid rgb(186, 180, 180);
+    border-radius: 8px;
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #c2bfbf;
+  }
+  
+  .contact-form h2 {
+    text-align: center;
+    color: #0f0f0f;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  label {
+    margin-bottom: 8px;
+    color: #333;
+  }
+  
+  input,
+  textarea {
+    padding: 10px;
+    margin-bottom: 16px;
+    border: none;
+    border-radius: 4px;
+    font-size: 14px;
+  }
+  
+  button {
+    background-color: #db8534;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  button:hover {
+    background-color: #b98929;
+  }
+  
+  @media screen and (max-width: 768px) {
+    .ig {
+      max-width: 100%;
+      margin: 0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+  
+ 
+  
+    .ig img {
+      width: 80%; /* Adjust the percentage as needed */
+    }
+  
+    .cardaprt {
+      width: 80%; /* Adjust the percentage as needed */
+      margin: 0 auto;
+    }
+  }
+  

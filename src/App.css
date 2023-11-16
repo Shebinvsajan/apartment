@@ -1,0 +1,12 @@
+
+
+*{
+    overflow-x: hidden;
+}
+
+.img-hy{
+    width: 80% !important;
+    height: 50% !important;
+    display: block;
+    margin: auto;
+}

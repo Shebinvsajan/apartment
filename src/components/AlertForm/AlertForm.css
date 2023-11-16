@@ -1,0 +1,65 @@
+/* Style for the overlay background */
+.modal-backdrop {
+    opacity: 0.5 !important;
+  }
+  
+  /* Style for the modal */
+  .modal-content {
+    background-color: #fff; /* Set your desired background color */
+    border-radius: 10px; /* Adjust the border radius as needed */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Add a subtle box shadow */
+  }
+  
+  /* Style for the modal header */
+  .modal-header {
+    border-bottom: 1px solid #dee2e6; /* Add a border to separate header and body */
+    padding: 15px; /* Adjust padding as needed */
+  }
+  
+  /* Style for the modal title */
+  .modal-title {
+    font-size: 20px; /* Set the font size for the title */
+  }
+  
+  /* Style for the modal body */
+  .modal-body {
+    padding: 20px; /* Adjust padding as needed */
+  }
+  
+  /* Style for the form labels */
+  .form-label {
+    font-weight: bold; /* Make the labels bold */
+  }
+  
+  /* Style for the form inputs */
+  .form-control {
+    margin-bottom: 15px; /* Add space between form controls */
+  }
+  
+  /* Style for the submit button */
+  .btn-primary {
+    background-color: #ff9100; /* Set your desired button color */
+    border: none;
+    width: 100%;
+  }
+  .btn-primary :hover{
+    background-color: #ff9100; /* Set your desired button color */
+    border: none;
+    width: 100%;
+  }
+  
+  /* Style for the close button */
+  .btn-secondary {
+    background-color: #6c757d; /* Set your desired button color */
+    border: none;
+  }
+  
+  /* Style for the close button on hover */
+  .btn-secondary:hover {
+    background-color: #5a6268; /* Set your desired hover color */
+  }
+  
+  /* Adjust the size of the modal box */
+  .modal-dialog {
+    max-width: 400px; /* Set your desired max-width */
+  }

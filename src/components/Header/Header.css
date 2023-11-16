@@ -1,0 +1,26 @@
+.head{
+    margin-bottom: 80px;
+}
+/* Add these styles to your CSS file */
+.logo-text {
+    font-family: 'YourLogoFont', sans-serif; /* Replace 'YourLogoFont' with the actual font you want to use */
+    font-size: 24px; /* Adjust the font size as needed */
+    color: #0a0a0a; /* Change the color to your preferred logo color */
+    text-transform: uppercase; /* Convert text to uppercase for a logo-like appearance */
+    letter-spacing: 2px; /* Adjust letter spacing for better visibility */
+    /* Add any additional styles as per your design preferences */
+  }
+.nav-text {
+    font-family: sans-serif; /* Replace 'YourLogoFont' with the actual font you want to use */
+    font-size: 14px; /* Adjust the font size as needed */
+    color: #0a0a0a; /* Change the color to your preferred logo color */
+    text-transform: uppercase; /* Convert text to uppercase for a logo-like appearance */
+    letter-spacing: 2px; /* Adjust letter spacing for better visibility */
+    /* Add any additional styles as per your design preferences */
+  }
+  .navbar-light .navbar-nav .nav-link {
+    color: rgb(0 0 0 / 95%);
+    cursor: pointer;
+    font-style: bold;
+  
+}

@@ -1,0 +1,53 @@
+{
+    "apartments": [
+      {
+        "id": 1,
+        "name": "Luxury Apartments",
+        "location": "Downtown City",
+        "description": "Modern and luxurious apartments in the heart of the city.",
+        "bhk": "2 BHK",
+        "image": "src/assets/img/banglore1.jpg"
+      },
+      {
+        "id": 2,
+        "name": "City View Residences",
+        "location": "Hillside Suburb",
+        "description": "Stunning residences with panoramic views of the city.",
+        "bhk": "3 BHK",
+        "image": "src/assets/img/banglore2.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Another Building",
+        "location": "Another Location",
+        "description": "Description of another building.hghg",
+        "bhk": "2 BHK",
+        "image": "src/assets/img/banglore3.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Yet Another Building",
+        "location": "Yet Another Location",
+        "description": "Description of yet another building.",
+        "bhk": "2 BHK",
+        "image": "src/assets/img/banglore4.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Another Building",
+        "location": "Another Location",
+        "description": "Description of another building.hghg",
+        "bhk": "2 BHK",
+        "image": "src/assets/img/banglore5.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Yet Another Building",
+        "location": "Yet Another Location",
+        "description": "Description of yet another building.",
+        "bhk": "2 BHK",
+        "image": "src/assets/img/banglore6.jpg"
+      }
+    ]
+  }
+  
